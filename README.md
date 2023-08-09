@@ -1,6 +1,8 @@
 # What is project kit?
 
-Any information about the project that may be useful and interesting:
+This is a folder called **project-kit** which contains additional information related to the project.
+
+This can be any information about the project that can be useful and interesting for both ordinary users and programmers:
 
 * Correct spelling and pronunciation of the project name.
 * Project description.
@@ -10,8 +12,7 @@ Any information about the project that may be useful and interesting:
 * History of creation and development of the project.
 * Links to videos related to the project.
 * Links to the mention of the project or related to the project entries on third-party resources.
-
-There are no restrictions! It can be anything!
+* Everything you see fit!
 
 ## Articles
 
