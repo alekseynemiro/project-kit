@@ -1,6 +1,6 @@
 # What is project kit?
 
-Any information about the project that may be useful and interesting!
+Any information about the project that may be useful and interesting:
 
 * Correct spelling and pronunciation of the project name.
 * Project description.
@@ -13,7 +13,11 @@ Any information about the project that may be useful and interesting!
 
 There are no restrictions! It can be anything!
 
-# Examples
+## Articles
+
+* https://alekseynemiro.medium.com/what-is-a-project-kit-e294e9d627b8
+
+## Examples
 
 * https://github.com/alekseynemiro/tapplayer/tree/master/project-kit
 * https://github.com/alekseynemiro/multi-duper-stopwatch/tree/master/project-kit
