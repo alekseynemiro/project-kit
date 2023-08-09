@@ -14,11 +14,15 @@ This can be any information about the project that can be useful and interesting
 * Links to the mention of the project or related to the project entries on third-party resources.
 * Everything you see fit!
 
-## Articles
-
-* https://alekseynemiro.medium.com/what-is-a-project-kit-e294e9d627b8
-
 ## Examples
 
 * https://github.com/alekseynemiro/tapplayer/tree/master/project-kit
 * https://github.com/alekseynemiro/multi-duper-stopwatch/tree/master/project-kit
+
+## Articles
+
+* https://alekseynemiro.medium.com/what-is-a-project-kit-e294e9d627b8
+
+## License
+
+![Public Domain Mark](http://i.creativecommons.org/p/mark/1.0/88x31.png)
