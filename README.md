@@ -16,8 +16,8 @@ This can be any information about the project that can be useful and interesting
 
 ## Examples
 
-* https://github.com/alekseynemiro/tapplayer/tree/master/project-kit
-* https://github.com/alekseynemiro/multi-duper-stopwatch/tree/master/project-kit
+* (Multi-duper Stopwatch)[https://github.com/alekseynemiro/multi-duper-stopwatch/tree/master/project-kit]
+* (TapPlayer)[https://github.com/alekseynemiro/tapplayer/tree/master/project-kit]
 
 ## Articles
 
